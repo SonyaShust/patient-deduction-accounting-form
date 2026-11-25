@@ -1,0 +1,232 @@
+[
+  {
+    "last_name": "Цве",
+    "first_name": "Выш",
+    "middle_name": "",
+    "age": 82,
+    "gender": "Не определен",
+    "height": 179.1,
+    "weight": 89.3,
+    "bmi": 27.8
+  },
+  {
+    "last_name": "Ларионова",
+    "first_name": "София",
+    "middle_name": "Богдановна",
+    "age": 53,
+    "gender": "Ж",
+    "height": 187.4,
+    "weight": 50.5,
+    "bmi": 14.4
+  },
+  {
+    "last_name": "Капустин",
+    "first_name": "Панфил",
+    "middle_name": "Александрович",
+    "age": 61,
+    "gender": "М",
+    "height": 166.1,
+    "weight": 65.1,
+    "bmi": 23.6
+  },
+  {
+    "last_name": "Новикова",
+    "first_name": "Анна",
+    "middle_name": "Даниловна",
+    "age": 66,
+    "gender": "Ж",
+    "height": 158.9,
+    "weight": 109.3,
+    "bmi": 43.3
+  },
+  {
+    "last_name": "Жукова",
+    "first_name": "Прасковья",
+    "middle_name": "Юльевна",
+    "age": 76,
+    "gender": "Ж",
+    "height": 176.4,
+    "weight": 118.1,
+    "bmi": 38.0
+  },
+  {
+    "last_name": "Козлова",
+    "first_name": "Тамара",
+    "middle_name": "",
+    "age": 55,
+    "gender": "Ж",
+    "height": 188.2,
+    "weight": 93.3,
+    "bmi": 26.3
+  },
+  {
+    "last_name": "Терентьева",
+    "first_name": "София",
+    "middle_name": "Николаевна",
+    "age": 26,
+    "gender": "Ж",
+    "height": 156.8,
+    "weight": 66.0,
+    "bmi": 26.8
+  },
+  {
+    "last_name": "Полякова",
+    "first_name": "Нонна",
+    "middle_name": "Эдуардовна",
+    "age": 47,
+    "gender": "Ж",
+    "height": 189.7,
+    "weight": 76.6,
+    "bmi": 21.3
+  },
+  {
+    "last_name": "Матвеева",
+    "first_name": "Агата",
+    "middle_name": "Валериевна",
+    "age": 64,
+    "gender": "Ж",
+    "height": 161.5,
+    "weight": 74.9,
+    "bmi": 28.7
+  },
+  {
+    "last_name": "Игнатова",
+    "first_name": "Наталья",
+    "middle_name": "Львовна",
+    "age": 27,
+    "gender": "Ж",
+    "height": 179.4,
+    "weight": 62.0,
+    "bmi": 19.3
+  },
+  {
+    "last_name": "Матвеев",
+    "first_name": "Герман",
+    "middle_name": "Григорьевич",
+    "age": 66,
+    "gender": "М",
+    "height": 165.8,
+    "weight": 114.8,
+    "bmi": 41.8
+  },
+  {
+    "last_name": "Кондратьев",
+    "first_name": "Мартын",
+    "middle_name": "Бориславович",
+    "age": 25,
+    "gender": "М",
+    "height": 164.2,
+    "weight": 52.2,
+    "bmi": 19.4
+  },
+  {
+    "last_name": "Тарасова",
+    "first_name": "Марина",
+    "middle_name": "Болеславовна",
+    "age": 26,
+    "gender": "Ж",
+    "height": 163.4,
+    "weight": 116.0,
+    "bmi": 43.4
+  },
+  {
+    "last_name": "Ефимова",
+    "first_name": "Любовь",
+    "middle_name": "Юльевна",
+    "age": 81,
+    "gender": "Ж",
+    "height": 170.8,
+    "weight": 114.0,
+    "bmi": 39.1
+  },
+  {
+    "last_name": "Белоусова",
+    "first_name": "Алина",
+    "middle_name": "Робертовна",
+    "age": 35,
+    "gender": "Ж",
+    "height": 164.9,
+    "weight": 89.3,
+    "bmi": 32.8
+  },
+  {
+    "last_name": "Белякова",
+    "first_name": "Варвара",
+    "middle_name": "Мироновна",
+    "age": 72,
+    "gender": "Ж",
+    "height": 190.9,
+    "weight": 78.0,
+    "bmi": 21.4
+  },
+  {
+    "last_name": "Федоров",
+    "first_name": "Устин",
+    "middle_name": "Ерофеевич",
+    "age": 35,
+    "gender": "М",
+    "height": 175.4,
+    "weight": 56.4,
+    "bmi": 18.3
+  },
+  {
+    "last_name": "Никонов",
+    "first_name": "Ян",
+    "middle_name": "Иосипович",
+    "age": 37,
+    "gender": "М",
+    "height": 180.1,
+    "weight": 105.4,
+    "bmi": 32.5
+  },
+  {
+    "last_name": "Игнатьева",
+    "first_name": "Евдокия",
+    "middle_name": "Афанасьевна",
+    "age": 67,
+    "gender": "Ж",
+    "height": 170.3,
+    "weight": 119.7,
+    "bmi": 41.3
+  },
+  {
+    "last_name": "Соловьева",
+    "first_name": "Елизавета",
+    "middle_name": "Кирилловна",
+    "age": 19,
+    "gender": "Ж",
+    "height": 182.2,
+    "weight": 58.0,
+    "bmi": 17.5
+  },
+  {
+    "last_name": "Федорова",
+    "first_name": "Елизавета",
+    "middle_name": "Болеславовна",
+    "age": 61,
+    "gender": "Ж",
+    "height": 159.5,
+    "weight": 80.4,
+    "bmi": 31.6
+  },
+  {
+    "last_name": "Щербакова",
+    "first_name": "Ирина",
+    "middle_name": "",
+    "age": 51,
+    "gender": "Ж",
+    "height": 193.9,
+    "weight": 103.3,
+    "bmi": 27.5
+  },
+  {
+    "last_name": "Калашников",
+    "first_name": "Михаил",
+    "middle_name": "Владиславович",
+    "age": 56,
+    "gender": "М",
+    "height": 188.7,
+    "weight": 85.5,
+    "bmi": 24.0
+  }
+]
