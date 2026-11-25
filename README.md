@@ -34,4 +34,5 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/SonyaShust/patient-deduction-accounting-form.git
-   cd main.py
+   python3 main.py
+   
